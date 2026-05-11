@@ -12,6 +12,13 @@ data/
 dataset/
 datasets/
 uploads/
+images/
+train/
+test/
+valid/
+validation/
+
+# Model files
 *.h5
 *.keras
 *.pt
