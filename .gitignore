@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
+
+# Large files / private data
+data/
+dataset/
+datasets/
+uploads/
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# System
+.DS_Store
+Thumbs.db
