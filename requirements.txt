@@ -5,3 +5,6 @@ scikit-learn
 tensorflow
 opencv-python
 pillow
+streamlit
+torch
+torchvision
